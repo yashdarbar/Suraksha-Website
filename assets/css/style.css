@@ -5062,7 +5062,6 @@ fieldset:disabled .btn {
     font-weight: 700 !important;
     content: "";
     border: 0;
-    content: "\e932";
 }
 .dropup .dropdown-toggle:empty::after {
     margin-left: 0;
@@ -31782,7 +31781,6 @@ button.hamburger:before {
     font-family: Unicons;
     position: absolute;
     left: 1.3rem;
-    content: "\e932";
     font-size: 1.15rem;
     font-weight: 400;
     width: 1rem;
@@ -31828,7 +31826,6 @@ button.hamburger:before {
 }
 .collapse-link:before {
     font-family: Unicons;
-    content: "\e932";
     font-size: 1.15rem;
     font-weight: 400;
     width: 1rem;
@@ -33937,9 +33934,6 @@ img.svg-inject {
 }
 .uil-angle-right:before {
     content: "\e931";
-}
-.uil-angle-up:before {
-    content: "\e932";
 }
 .uil-angry:before {
     content: "\e933";
